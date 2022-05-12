@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Abhishek Jadhav</h1>
+<h3 align="center">Developer. Engineer. Entry Level Writer.</h3>
 
-<!--
-**0xAJX/0xAJX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working at [Tata Consultancy Services](https://www.tcs.com/)
 
-Here are some ideas to get you started:
+- 👨‍💻 Who Am I [https://www.abhishekjadhav.com](https://www.abhishekjadhav.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📝 I've started to write articles on [https://medium.com/@0xAJ](https://pillai.xyz/dev)
+
+- 💬 Ask me about **Anything AWS, Python, Android and Django**
+
+- 📫 How to reach me **contact@abhishekjadhav.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/0xAbhishekJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xAbhishekJ" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/0xaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekjadhav" height="30" width="40" /></a>
+</p>
