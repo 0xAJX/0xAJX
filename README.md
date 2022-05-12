@@ -5,7 +5,7 @@
 
 - 👨‍💻 Who Am I [https://abhishekjadhav.com](https://abhishekjadhav.com)
 
-- 📝 I've started to write articles on [https://medium.com/@0xAJ](https://pillai.xyz/dev)
+- 📝 I've started to write articles on [https://medium.com/@0xAJ](https://medium.com/@0xAJ)
 
 - 💬 Ask me about **Anything AWS, Python, Android and Django**
 
