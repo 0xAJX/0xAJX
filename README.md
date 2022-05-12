@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [Tata Consultancy Services](https://www.tcs.com/)
 
-- 👨‍💻 Who Am I [https://www.abhishekjadhav.com](https://www.abhishekjadhav.com)
+- 👨‍💻 Who Am I [https://abhishekjadhav.com](https://abhishekjadhav.com)
 
 - 📝 I've started to write articles on [https://medium.com/@0xAJ](https://pillai.xyz/dev)
 
