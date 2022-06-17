@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Jadhav</h1>
-<h3 align="center">Developer. Engineer. Entry Level Writer.</h3>
+<h3 align="center">Developer. Engineer. Architect.</h3>
 
 - 🔭 I’m currently working at [Tata Consultancy Services](https://www.tcs.com/)
 
