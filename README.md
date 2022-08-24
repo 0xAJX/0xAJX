@@ -7,7 +7,7 @@
 
 - 📝 I've started writing articles on [https://medium.com/@0xAJ](https://medium.com/@0xAJ)
 
-- 💬 Ask me about **Anything AWS, Python, Android and Django**
+- 💬 Ask me about **Anything AWS, Python, Spark, Android and Django**
 
 - 📫 You can email me at **contact@abhishekjadhav.com**
 
