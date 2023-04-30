@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abhishek Jadhav</h1>
 <h3 align="center">Developer. Engineer. Architect.</h3>
 
-- 🔭 I’m currently working at [Tata Consultancy Services](https://www.tcs.com/)
+- 🔭 I’m currently working at [EY](https://www.ey.com/)
 
-- 👨‍💻 Who I Am [https://abhishekjadhav.com](https://abhishekjadhav.com)
+- 👨‍💻 Who I Am [https://jadhav.io](https://jadhav.io)
 
 - 📝 I've started writing articles on [https://medium.com/@0xAJ](https://medium.com/@0xAJ)
 
 - 💬 Ask me about **Anything AWS, Python, Spark, Android and Django**
 
-- 📫 You can email me at **contact@abhishekjadhav.com**
+- 📫 You can email me at **abhi@jadhav.io**
 
 <h3 align="left">Connect with me on social media:</h3>
 <p align="left">
