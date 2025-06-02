@@ -13,7 +13,7 @@
 
 <h3 align="left">🦾 My Skills</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,python)](https://jadhav.io)
+[![My Skills](https://skillicons.dev/icons?i=aws,python)]()
 
 <h3 align="left">Connect with me on social media:</h3>
 
