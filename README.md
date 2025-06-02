@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abhishek Jadhav</h1>
 <h3 align="left">Developer. Engineer. Architect.</h3>
 
+- 👨‍💻 Who am I? [jadhav.io](https://jadhav.io)
+
 - 🔭 I’m currently working at [EY](https://www.ey.com/)
-
-- 👨‍💻 Who I Am [jadhav.io](https://jadhav.io)
-
-- 📝 I've started writing articles on [medium.com/@0xAJ](https://medium.com/@0xAJ)
 
 - 💬 Ask me about **Anything AWS, Python & Spark**
 
 - 📫 You can email me at **abhi@jadhav.io**
+
+- 📝 I've started writing articles on [medium.com/@0xAJ](https://medium.com/@0xAJ)
 
 <h3 align="left">🦾 My Skills</h3>
 
