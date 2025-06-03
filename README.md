@@ -13,7 +13,7 @@
 
 <h2 align="left">🦾 My Skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,py,bash,git,linux,postgres)](https://github.com/0xAJX)
+[![My Skills](https://skillicons.dev/icons?i=aws,py,bash,git,linux,postgres,github,githubactions,latex)](https://github.com/0xAJX)
 
 <h2 align="left">🌐 Connect with me on social media:</h2>
 
