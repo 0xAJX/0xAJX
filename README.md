@@ -19,3 +19,4 @@
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/0xaj)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/0xAJX0)
+[![Twitter](https://skillicons.dev/icons?i=notion)](https://www.notion.com/@0xaj)
