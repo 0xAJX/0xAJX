@@ -3,13 +3,15 @@
 
 - 👨‍💻 Who am I? [jadhav.io](https://jadhav.io)
 
-- 🔭 I’m currently working at [EY](https://www.ey.com/)
+- 🔭 I’m currently working at [Ameriprise Financial](https://www.ameriprise.com/)
 
 - 💬 Ask me about **Anything AWS, Python & Spark**
 
 - 📫 You can email me at **abhi@jadhav.io**
 
 - 📝 I've started writing articles on [medium.com/@0xAJ](https://medium.com/@0xAJ)
+
+- 🗓️ My Notion DSA Template [Notion Marketplace](https://www.notion.com/templates/data-structures-algorithms-tracker)
 
 <h2 align="left">🦾 My Skills</h2>
 
